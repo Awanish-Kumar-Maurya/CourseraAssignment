@@ -15,11 +15,11 @@ var dc = {};
 
 var homeHtmlUrl = "snippets/home-snippet.html";
 var allCategoriesUrl = 
-  "https://davids-restaurant.herokuapp.com/categories.json"; //categories
+  "https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-5-Solutions/Categories.json"; //categories
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl = 
-  "https://davids-restaurant.herokuapp.com/menu_items.json?category="; //menu items url
+  "https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-5-Solutions/menu-items.json"; //menu items url
 var menuItemsTitleHtml = "snippets/menu-items-title.html";
 var menuItemHtml = "snippets/menu-item.html";
 
