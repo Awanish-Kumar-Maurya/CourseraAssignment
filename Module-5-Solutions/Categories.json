@@ -1,0 +1,33 @@
+[
+	{"id":875,
+	"short_name":"BR",
+	"name":"Breakfast Menu",
+	"special_instructions":"The little energy you obtained from your breakfast can ignite your willingness to kick start. Don't overlook the little energy you have now by fixing eyes on a supposed magical influence farther away!"
+    }
+	
+	{"id":975,
+	"short_name":"L",
+	"name":"Lunch",
+	"special_instructions":"Munday-Friday 11:15am-3:00pm. It includes all the food groups throughout the day i.e,fruits, vegetables, grains, dairy, and protein foods part of your daily meals and snacks",
+    }
+	
+	{"id":300,
+	"short_name":"DI",
+	"name":"DINNER Menu",
+	"special_instructions":"contains sources of fiber and protein as well as some healthy fat.",
+	}
+
+    {"id":400,
+	"short_name":"VG",
+	"name":"Vegetarian Menu",
+	"special_instructions":"Contains various indian vegitarian dishes i.e, Aalu Gobi,Dal,Palak Paneer etc."
+	}
+	
+	{"id":500,
+	"short_name":"NVG",
+	"name":"Non-Vegetarian Menu",
+	"special_instructions":"Conatains Non-Vegetarian Indian Dishes i.e,Chiken,Fish and some other dishes."
+	}
+]
+	
+	

@@ -1,0 +1,164 @@
+{ 
+	"menu_items":
+	[
+		{"id":876,"short_name":"A1","name":"Bhatura",
+		"description":"Bhatura is an Indian deep fried leavened bread made with all-purpose flour, salt and a leavening agent. Chole bhatura is a popular combo of this puffed fried bread served with a spicy chickpea curry.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":878,"short_name":"A2","name":"Bread Upma",
+		"description":"Bread upma is a South Indian style breakfast or snack made with bread &  spices. It is a super quick way to use up your left over bread and can be done in just 15 mins.",
+		"price_small":2.25,"price_large":4.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":879,"short_name":"A3","name":"Masala Dosa",
+		"description":"Masala dosa is one of the most popular South Indian breakfast dishes served in restaurants and tiffin centres. Dosa is a crepe made using fermented rice and lentil batter.",
+		"price_small":2.75,"price_large":5.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":880,"short_name":"A4","name":"Medu vada",
+		"description":"Medu vada are the other South Indian names to these round disc shaped fritters. These are one of the very popular South Indian foods served for Breakfast or Snack not only in most traditional South Indian homes but also in street stalls and tiffin centers.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":881,"short_name":"A5","name":"Methi Paratha",
+		"description":"chicken soup with egg drop and won tons",
+		"price_small":3.0,"price_large":6.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":882,"short_name":"A6","name":"Mixveg Paratha",
+		"description":"Mix veg paratha made with whole wheat flour, mixed vegetables, spices & herbs. It is a healthy & Kids’ friendly breakfast recipe. These mix vegetable parathas taste delicious and are super soft. So they keep good for several hours when stored well. They can be eaten on their own or with a chutney or pickle.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":883,"short_name":"A7","name":"Podi Idli",
+		"description":"This is one of the most common idli varieties I make often at home for the breakfast. Making podi idli is super easy if you have the podi ready in your kitchen.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":884,"short_name":"A8","name":"Poha",
+		"description":"Poha or pohe is a quick breakfast & snack made with beaten rice or flattened rice, spices, peanuts and onions. It is not only popular in Maharashtraian and Gujarati cuisines but also in many other regions of India. Poha is prepared in a similar way in most regions",
+		"price_small":3.0,"price_large":6.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":885,"short_name":"A9","name":"Poori",
+		"description":"Puri is an unleavened deep fried bread made with wheat flour & salt. This post will guide you to make perfect crisp puffed pooris at home. Puri is eaten with aloo curry, sagu or chutney.",
+		"price_small":3.25,"price_large":6.4,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":886,"short_name":"A10","name":"Rava Dosa",
+		"description":"Rava dosa is a South Indian breakfast made with semolina, cumin, ginger, coriander leaves and green chilies. These aromatic crisp toasted thin crepes are immensely popular in the South Indian Tiffin centers.",
+		"price_small":4.25,"price_large":8.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":887,"short_name":"A11","name":"Rava Idli",
+		"description":"Rava idli is a popular Breakfast food that originated in the Tiffin centers of Karnataka. It is a variation of the traditional Idli recipe but made with semolina, curd and some spices.",
+		"price_small":null,"price_large":11.95,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":888,"short_name":"A12","name":"Rava Uttaapam",
+		"description":"Instant uttapam is a quick breakfast recipe made with semolina, spices & veggies. These turn out delicious & just take about 20 mins to make. These suji uttapam are great to have even for dinner with some chutney or podi.",
+		"price_small":null,"price_large":3.0,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":889,"short_name":"A13","name":"Sabudana Khichidi",
+		"description":"Sabudana khichdi is an Indian dish made of tapioca pearls, potatoes, peanuts and herbs. It is hugely popular in India as a fasting food and is consumed during Navratri.",
+		"price_small":null,"price_large":3.0,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":890,"short_name":"A14","name":"Semiya Upma",
+		"description":"Popular South Indian breakfast made with vermicelli. Semiya is a south Indian term that refers to vermicelli and is known as shavige in kannda & seviyan in hindi.",
+		"price_small":null,"price_large":2.25,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":891,"short_name":"A15","name":"Soft Idle",
+		"description":"Soft idli can be made in 2 ways, one is using rice and the other using idli rava.",
+		"price_small":null,"price_large":6.25,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":892,"short_name":"A16","name":"Upma",
+		"description":"A basic South Indian breakfast recipe made with semolina, spices, herbs & veggies. Most Indian breakfast foods take a considerable amount of time – to plan, prepare and to cook.",
+		"price_small":null,"price_large":6.25,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":976,"short_name":"L1","name":"Bhindi masala",
+		"description":"a semi dry lightly spiced Punjabi bhindi masala made with okra, onions and tomatoes.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":978,"short_name":"L2","name":"Bisi bele bath",
+		"description":"Bisibelebath recipe is a delicious and healthy complete meal of rice, lentils and vegetables. Bisi bele bath is one of the popular recipe from the Karnataka cuisine which you can make for dinner or lunch.",
+		"price_small":2.25,"price_large":4.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":979,"short_name":"L3","name":"Chana Dal",
+		"description":"here are many recipes made with chana dal all over India. In bengal the combo of Cholar dal with Luchi is very popular. In south India chana dal is used in making many delicious recipes like Dal vada or Chana dal payasam. ",
+		"price_small":2.75,"price_large":5.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":980,"short_name":"L4","name":"Chole masala",
+		"description":"Chana masala is made with freshly powdered spices, onions, tomatoes, herbs making the chana taste like the ones you get on the streets of Delhi. Chana masala is relished with poori or rice or roti or paratha or Naan or Kulcha.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":981,"short_name":"L5","name":"Dal Makhani",
+		"description":"This is one of the most popular dal recipe made in north India with whole urad dal and rajma. this dal makhani recipe is restaurant style and tastes awesome. If you love authentic Punjabi food then you are going to love this dal makhani even more.",
+		"price_small":3.0,"price_large":6.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":982,"short_name":"L6","name":"Dum Biryani",
+		"description":"Dum biryani has the beautiful medley of the aromas, flavors and tastes caused by the blending of the ingredients used in making it.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":983,"short_name":"L7","name":"Kadala Currry",
+		"description":"Spicy black chickpeas curry from the Kerala cuisine. the combo of kadala curry with Puttu or Appam is too good. You can also serve it with Idiyappam or with steamed rice, chapatis.",
+		"price_small":2.55,"price_large":5.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":984,"short_name":"L8","name":"Kadhi Pakora",
+		"description":"It is a very popular North Indian dinner recipe of Punjabi kadhi pakora. Fried onion pakoras in a creamy & sour yogurt sauce. The kadhi is either served with rice or with roti or phulka.",
+		"price_small":3.0,"price_large":6.0,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":985,"short_name":"L9","name":"Masala Dosa",
+		"description":"There are many popular varieties of dosa made in south India like Rava dosa, Neer dosa and Set dosa. they are usually had with Coconut chutney and sambar.",
+		"price_small":3.25,"price_large":6.4,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":986,"short_name":"L10","name":"Palak Paneer",
+		"description":"It is a smooth creamy palak paneer made with fresh spinach leaves, paneer, onions, herbs and spices.",
+		"price_small":4.25,"price_large":8.5,"small_portion_name":"Half","large_portion_name":"Full"
+		},
+		
+		{"id":987,"short_name":"L11","name":"Paneer Butter Masala",
+		"description":"This is one the most popular cottage cheese curry served in most Indian restaurants and is also made for special occasions.",
+		"price_small":null,"price_large":11.95,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":988,"short_name":"L12","name":"Rajama Masala",
+		"description":"rajma masala or rajma chawal is one of the regulars at any Punjabi house for lunch or dinner. Mostly its made on weekends. This is a simple and easy one pot Punjabi rajma curry or kidney beans curry that goes well with rice or rotis.",
+		"price_small":null,"price_large":3.0,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":989,"short_name":"L13","name":"Sambhar",
+		"description":"sambar is a South Indian lentil and vegetable stew made with lentils, tamarind and a unique spice blend called sambar powder. Sambar is served With steamed rice, Idli, dosa or Medu vada or Uttapam.",
+		"price_small":null,"price_large":3.0,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":990,"short_name":"L14","name":"Tamarind Rice",
+		"description":"Popular South Indian recipe of a tangy, sour & spiced rice. The recipe dish is also known as puliyodharai in tamil language.",
+		"price_small":null,"price_large":2.25,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":991,"short_name":"L15","name":"Vangi Bhath",
+		"description":"It is a delicious recipe of spiced brinjal rice from the Karnataka cuisine. vangi bath is popular both in the Maharashtrian and Karnataka cuisine. Both the regional recipes taste different as some of the ingredients and the spices that go into preparing them are different.",
+		"price_small":null,"price_large":6.25,"small_portion_name":null,"large_portion_name":null
+		},
+		
+		{"id":992,"short_name":"L16","name":"Vegetable Pulao",
+		"description":"Vegetable pulao is a one pot dish made with rice and vegetables. Some spices and herbs are also added to give pulao more flavor and taste.",
+		"price_small":null,"price_large":6.25,"small_portion_name":null,"large_portion_name":null
+		}
+	]
+}
