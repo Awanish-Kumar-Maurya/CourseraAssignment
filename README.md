@@ -7,6 +7,6 @@ Module 2 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/M
 
 Module 3 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-3-Solution/index.html*
 
-Module 4 Solution :
+Module 4 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-4-Solution/index.html*
 
 Module 5 Solution :
