@@ -5,7 +5,7 @@ Solution Links:
 
 Module 2 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-2-Solution/index.html*
 
-Module 3 Solution :
+Module 3 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-3-Solution/index.html*
 
 Module 4 Solution :
 
