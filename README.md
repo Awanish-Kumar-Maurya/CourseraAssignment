@@ -1,5 +1,5 @@
 # CourseraAssignment
-HTML, CSS, JavaScript for Web Developers  Johns Hopkins University Assignment Solution
+<b>HTML, CSS, JavaScript for Web Developers  Johns Hopkins University Assignment Solution</b>
 
 Solution Links:
 
@@ -12,6 +12,7 @@ Module 4 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/M
 Module 5 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Module-5-Solution/index.html*
 <br>
 <hr>
-Introduction to HTML 5
+<b>Introduction to HTML 5</b>
 <br>
+
 Final Project Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Intro2html5solution.html*
