@@ -13,5 +13,9 @@ Module 5 Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/M
 
 <hr>
 <b>Introduction to HTML 5</b>
+<pre>
+
+Final Project Description : *https://awanish-kumar-maurya.github.io/CourseraAssignment/ProjectDescription.png*
 
 Final Project Solution : *https://awanish-kumar-maurya.github.io/CourseraAssignment/Intro2html5solution.html*
+</pre>
